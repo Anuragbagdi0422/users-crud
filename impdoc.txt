@@ -12,3 +12,7 @@ https://www.itsolutionstuff.com/post/laravel-11-stripe-payment-gateway-integrati
 
 For Api :
 https://www.itsolutionstuff.com/post/laravel-12-rest-api-authentication-using-sanctum-tutorialexample.html
+
+composer create-project laravel/laravel example-app
+
+composer create-project laravel/laravel="10.*" myapp
