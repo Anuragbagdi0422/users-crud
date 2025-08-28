@@ -1,0 +1,14 @@
+For peginaction :
+https://wpwebinfotech.com/blog/laravel-simple-pagination/
+
+For Auth :
+https://www.itsolutionstuff.com/post/laravel-12-custom-user-login-and-registration-tutorialexample.html
+
+For Crud : 
+https://www.itsolutionstuff.com/post/laravel-12-crud-application-example-tutorialexample.html
+
+For Stripe : 
+https://www.itsolutionstuff.com/post/laravel-11-stripe-payment-gateway-integration-exampleexample.html
+
+For Api :
+https://www.itsolutionstuff.com/post/laravel-12-rest-api-authentication-using-sanctum-tutorialexample.html
